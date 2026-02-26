@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MusicPlayer/XFlowsive/.vs/XFlowsive/copilot-chat/1d338156/sessions/0adc1cf3-683a-41d2-8c7a-d20ed61a775c
+/.vs/Projects/FileContentIndex/1fd7797c-acdc-45ae-9e63-da1b9850650f.vsidx
+/.vs/Projects/FileContentIndex/269f704a-b216-43ce-9f8c-05b2f78d1b4f.vsidx
+/.vs/Projects/FileContentIndex/68f4d439-01d5-49fa-af34-5272fa94735a.vsidx
+/.vs/Projects/FileContentIndex/860dc455-7248-41cb-9919-707680c34b82.vsidx
+/.vs/Projects/FileContentIndex/8aa73e93-cede-4b13-a5a6-df280cb9324b.vsidx
+.vs/
